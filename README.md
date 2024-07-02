@@ -14,7 +14,8 @@ MySql is used for this project
 
 
 2)LOGIN USER API
-![Screenshot 2024-07-02 090604](https://github.com/bevaibhav01/WORKINDIA_API/assets/108732791/8d7ebcca-f3e9-4d10-8db4-b5ec74165bb6)
+![Screenshot 2024-07-02 093034](https://github.com/bevaibhav01/WORKINDIA_API/assets/108732791/49a01fb1-e38a-438b-8013-6d24a4901646)
+
 
 
 3)ADD PLACE USER API
