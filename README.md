@@ -25,5 +25,9 @@ MySql is used for this project
   2)NOT ADMIN
   ![image](https://github.com/bevaibhav01/WORKINDIA_API/assets/108732791/19f78814-1185-4723-abf7-c49cda655d78)
 
+4)SEARCH QUERY
+![image](https://github.com/bevaibhav01/WORKINDIA_API/assets/108732791/a1d9a8e6-8d7b-455c-948a-f122f480db2f)
+
+
 
 
